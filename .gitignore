@@ -1,7 +1,1 @@
 vendor
-composer.lock
-config
-public
-roar
-server.php
-bootstrap.php
