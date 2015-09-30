@@ -1,0 +1,26 @@
+{
+  "name": "artisangang/roar",
+  "description": "PHP framework",
+  "authors": [
+    {
+      "name": "Harcharan Singh",
+      "email": "artisangang@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "files": [
+    ],
+    "psr-4": {
+      "Roar\\": "artisangang/roar/src/Roar/"
+    }
+  }
+}
